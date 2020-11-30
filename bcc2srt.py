@@ -1,3 +1,8 @@
+# Written by upojzsb
+# Version 1.0 is released on November 29, 2020
+# This software is released under Apache License 2.0
+# The license is shown in LICENSE file.
+
 import glob
 import os
 import sys
