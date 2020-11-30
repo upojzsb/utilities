@@ -4,4 +4,4 @@
 
 Since subtitles provided by bilibili are in bcc format, which is not supported by the video player I use, I implemented the utility to convert all bcc file in a given directory to srt file with the same name.
 
-V1.0 is released on November 29, 2020.
+> V1.0 is released on November 29, 2020.
