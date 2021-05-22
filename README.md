@@ -13,3 +13,11 @@ Since subtitles provided by bilibili are in bcc format, which is not supported b
 Since Ximalaya did not allow downloading audio files on the PCs, I implemented this utility to get the download links for the audio files in the playlist.
 
 > V1.0 is released on March 4, 2021
+
+# sudoku
+
+迫于又菜又想玩数独，实现了这个 Utility，可以给出数独的解。
+
+Since I like to play Sudoku, even though I am very bad at solving Sudoku problems, I implemented this utility, which provides the results of a specific Sudoku problem.
+
+> V1.0 is released on May 22, 2021
