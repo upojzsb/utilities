@@ -3,6 +3,7 @@ import numpy as np
 
 def dfs(cb, dep):
     if not np.any(cb == 0):
+        print('Solved at %d-th depth' % dep)
         print(cb)
         return
 
@@ -42,7 +43,6 @@ def main():
     visit = chessboard.copy()
     visit[visit != 0] = 1
     pos = np.argwhere(chessboard == 0)
-    print(check(chessboard, np.array([0, 6]), 8))
     dfs(chessboard, 0)
 
 
