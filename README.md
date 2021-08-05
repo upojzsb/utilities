@@ -21,3 +21,9 @@ Since Ximalaya did not allow downloading audio files on the PCs, I implemented t
 Since I like to play Sudoku, even though I am very bad at solving Sudoku problems, I implemented this utility, which provides the results of a specific Sudoku problem.
 
 > V1.0 is released on May 22, 2021
+
+# multi_stock_chart
+
+迫于想同时看多个股票的分时图，实现了这个 Utility，可以同时显示多个股票的分时图。
+
+Since I wanted to see real-time charts of several stocks at the same time, I implemented this tool, which provides real-time charts of several stocks at the same time.
