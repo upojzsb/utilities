@@ -27,3 +27,6 @@ Since I like to play Sudoku, even though I am very bad at solving Sudoku problem
 迫于想同时看多个股票的分时图，实现了这个 Utility，可以同时显示多个股票的分时图。
 
 Since I wanted to see real-time charts of several stocks at the same time, I implemented this tool, which provides real-time charts of several stocks at the same time.
+
+> V1.0 is released on August 5, 2021
+
