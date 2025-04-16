@@ -35,3 +35,5 @@ Since I wanted to see real-time charts of several stocks at the same time, I imp
 迫于想统计用LaTeX写作的论文进度，实现了这个 Utility，可以统计论文的字数、图片、公式等信息。
 
 Since I wanted to summarize the progress of my thesis written in LaTeX, I implemented this utility to calculate the word count, number of images, and number of math equations.
+
+> V1.0 is released on April 16, 2025
